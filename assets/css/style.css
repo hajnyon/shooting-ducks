@@ -4,6 +4,10 @@ body {
   font-family: 'sans-serif';
 }
 
+h1 {
+  margin: 0;
+}
+
  #defaultCanvas0:hover {
   cursor: url(../images/crosshair.png), auto;
 } 
