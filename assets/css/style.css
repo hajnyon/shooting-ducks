@@ -1,0 +1,18 @@
+
+body {
+  background: grey;
+  font-family: 'sans-serif';
+}
+
+ #defaultCanvas0:hover {
+  cursor: url(../images/crosshair.png), auto;
+} 
+
+.miss, .score {
+  float: left;
+  width: 350px;
+  font-size: 25px;
+}
+.score {
+  text-align: right;
+}
